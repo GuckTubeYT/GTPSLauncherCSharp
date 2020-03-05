@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\bin\Debug\GTPSLauncherCSharp.exe.config
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\bin\Debug\GTPSLauncherCSharp.exe
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\bin\Debug\GTPSLauncherCSharp.pdb
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GTPSLauncherCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GTPSLauncherCSharp.Form1.resources
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GuckProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GTPSLauncherCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GTPSLauncherCSharp.exe
+C:\Users\Administrator\Desktop\GTPSLauncherCSharp\GTPSLauncherCSharp\obj\Debug\GTPSLauncherCSharp.pdb
