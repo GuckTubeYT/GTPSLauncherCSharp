@@ -86,7 +86,7 @@ namespace GTPSLauncherCSharp
             tw.WriteLine("#      ::1             localhost ");
             tw.WriteLine(" ");
             tw.Close();
-            label1.Text = "KXPS Is Turn OFF";
+            label1.Text = "GTPS Is Turn OFF";
         }
     }
 }
